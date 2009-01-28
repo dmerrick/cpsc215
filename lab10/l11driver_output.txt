@@ -1,0 +1,72 @@
+Input list:
+
+BOS - Boston
+MDW - Chicago
+ORD - Chicago
+FRA - Frankfurt am Main
+BDL - Hartford
+LGW - London
+LHR - London
+STN - London
+EWR - Newark
+JFK - New York
+LGA - New York
+CDG - Paris
+ORY - Paris
+SFO - San Francisco
+HND - Tokyo
+NRT - Tokyo
+
+There are three major airports in London, and 
+find(London) gives the key-value pair (London, LGW)
+
+After removing the entry (London, LGW)
+find(London) gives the key-value pair (London, LHR)
+
+Now testing entries()...
+
+BDL - Hartford
+SFO - San Francisco
+LHR - London
+STN - London
+HND - Tokyo
+NRT - Tokyo
+BOS - Boston
+EWR - Newark
+FRA - Frankfurt am Main
+MDW - Chicago
+ORD - Chicago
+CDG - Paris
+ORY - Paris
+JFK - New York
+LGA - New York
+
+Now testing findAll(k)...
+
+These entries were found:
+
+HND - Tokyo
+NRT - Tokyo
+
+Now testing removeAll(k)...
+
+These entries were removed:
+
+JFK - New York
+LGA - New York
+
+Now the dictionary looks like this:
+
+BDL - Hartford
+SFO - San Francisco
+LHR - London
+STN - London
+HND - Tokyo
+NRT - Tokyo
+BOS - Boston
+EWR - Newark
+FRA - Frankfurt am Main
+MDW - Chicago
+ORD - Chicago
+CDG - Paris
+ORY - Paris

@@ -1,0 +1,82 @@
+Welcome to the phone number database!
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 2
+Please enter the new person's name: Dana Merrick
+Now enter the new person's number: 555-1234
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 2
+Please enter the new person's name: Daryl Harkins
+Now enter the new person's number: 314-1592
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 2
+Please enter the new person's name: Matt L'Italian
+Now enter the new person's number: 123-4567
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 4
+Name    Number
+Dana Merrick    555-1234
+Daryl Harkins   314-1592
+Matt L'Italian  123-4567
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 3
+Please enter the person to removes name: Daryl Harkins
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 4
+Name    Number
+Dana Merrick    555-1234
+Matt L'Italian  123-4567
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 1
+Please enter a name to search for: Dana Merrick
+Name    Number
+Dana Merrick    555-1234
+
+1) Search for an entry.
+2) Add an entry.
+3) Remove an entry.
+4) List all entries.
+5) Terminate the session.
+
+Your selection: 5

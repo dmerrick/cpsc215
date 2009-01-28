@@ -1,0 +1,46 @@
+DEBUG:	Making a list of Integers...
+DEBUG:	List now contains:
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+1
+DEBUG:	Now testing sort() and re-running iterator().
+0
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+DEBUG:	Making a list of Strings...
+DEBUG:	List now contains:
+Hello,
+World,
+how
+are
+you
+my
+name
+is
+Dana!
+DEBUG:	Now testing sort() and re-running iterator().
+Dana!
+Hello,
+World,
+are
+how
+is
+my
+name
+you

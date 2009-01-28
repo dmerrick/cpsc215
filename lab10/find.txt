@@ -1,0 +1,12 @@
+int i = h(k);
+do {
+  if (A[i] == EMPTY)
+    return NO_SUCH_KEY;
+  if (A[i] == AVAILABLE)
+    i = (i+1)%N;
+  else if (key(A[i]) == k)
+    return A[i];
+  else
+    i = (i+1)%N;
+} while (i != k(k))
+return NO_SUCH_KEY;

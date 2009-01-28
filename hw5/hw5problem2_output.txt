@@ -1,0 +1,16 @@
+dmerrick@strawberry hw5 $ java HW5Problem2
+Enter a parenthetical expression: (a+d)*(b+c)-(((a-b)*(c-d)+a)-b)
+(a+d)*(b+c)-(((a-b)*(c-d)+a)-b) is well-formed.
+
+dmerrick@strawberry hw5 $ java HW5Problem2
+Enter a parenthetical expression: (a+d))*(b+c)-(((a-b)*(c-d)+a)-b
+(a+d))*(b+c)-(((a-b)*(c-d)+a)-b is not well-formed.
+
+dmerrick@strawberry hw5 $ java HW5Problem2
+Enter a parenthetical expression: (a+d)*(b+c)-{[(a-b)*(c-d)+a]-b}
+(a+d)*(b+c)-{[(a-b)*(c-d)+a]-b} is well-formed.
+
+dmerrick@strawberry hw5 $ java HW5Problem2
+Enter a parenthetical expression: (a+d)*(b+c)-{[(a-b)*(c-d)+a}-b]
+(a+d)*(b+c)-{[(a-b)*(c-d)+a}-b] is not well-formed.
+

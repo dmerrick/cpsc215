@@ -1,0 +1,25 @@
+  Queue: DequeQueue@1ad086a  k = 3
+    Doug is out
+  Queue: DequeQueue@1ad086a  k = 3
+    Bob is out
+  Queue: DequeQueue@1ad086a  k = 3
+    Alice is out
+  Queue: DequeQueue@1ad086a  k = 3
+    Cindy is out
+  Queue: DequeQueue@1ad086a  k = 3
+    Fred is out
+First winner is Ed
+  Queue: DequeQueue@10385c1  k = 10
+    Kim is out
+  Queue: DequeQueue@10385c1  k = 10
+    Lance is out
+  Queue: DequeQueue@10385c1  k = 10
+    Irene is out
+  Queue: DequeQueue@10385c1  k = 10
+    Gene is out
+  Queue: DequeQueue@10385c1  k = 10
+    Hope is out
+Second winner is Jack
+  Queue: DequeQueue@42719c  k = 7
+    Roberto is out
+Third winner is Mike

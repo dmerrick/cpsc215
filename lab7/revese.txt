@@ -1,0 +1,14 @@
+public static void reverse(int[] b) {
+   int left  = 0;
+   int right = b.length-1;
+  
+   while (left < right) {
+      int temp = b[left]; 
+      b[left] = b[right]; 
+      b[right] = temp;
+     
+      left++;
+      right--;
+   }
+}
+
